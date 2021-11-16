@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~ngx-toastr/toastr';
+tody {
+    background: linear-gradient(rgba(0,0,0,0,7)), url('./assets/Fondo2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+

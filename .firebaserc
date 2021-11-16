@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-2d785": {
+      "hosting": {
+        "MarceB": [
+          "empleados-2d785"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-2d785"
+  }
+}
